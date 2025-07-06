@@ -1,4 +1,4 @@
-# 🌐 Deepthi Balasubramanian — Personal Portfolio Website
+# 🌐 Prabanjan — Personal Portfolio Website
 
 Welcome to the repository for my personal portfolio website — a space where I showcase my work, projects, achievements, and more!
 
