@@ -151,15 +151,19 @@
         "items": [
           {
             "name": "Microsoft Azure AI Fundamentals",
+            "url": "https://www.credly.com/badges/AI-900"
           },
           {
             "name": "Azure Data Fundamentals",
+            "url": "https://www.credly.com/badges/DP-900"
           },
           {
             "name": "Foundational C# with Microsoft",
+            "url": "#"
           },
           {
             "name": "AWS Machine Learning Scholarship",
+            "url": "#"
           }
         ]
       }
