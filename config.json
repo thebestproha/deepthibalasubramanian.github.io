@@ -155,7 +155,7 @@
 "footer": {
   "show_social_links": true,
   "show_built_with": true,
-  "built_with_text": "Built with 💙 using React, Tailwind, and Bolt.new",
+  "built_with_text": "Built with 💙 using React, Tailwind",
   "tagline": "Engineering meets creativity — code with purpose, design with passion."
 }
 }
