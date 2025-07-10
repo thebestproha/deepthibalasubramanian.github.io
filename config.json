@@ -7,175 +7,155 @@
     "github_projects": true
   },
   "site": {
-    "title": "Deepthi Balasubramanian",
+    "title": "Prabanjan M",
     "description": "Developer Portfolio",
     "seo": {
-      "title": "Deepthi Balasubramanian - Developer Portfolio",
-      "description": "Portfolio of Deepthi Balasubramanian - Software Engineer | AI Researcher | Microsoft Student Ambassador",
-      "keywords": "Deepthi, AI, Microsoft Student Ambassador, developer, portfolio, GitHub, Azure, innovation",
-      "author": "Deepthi Balasubramanian",
-      "og_image": "https://avatars.githubusercontent.com/deepthibalasubramanian",
+      "title": "Prabanjan M - Developer Portfolio",
+      "description": "Portfolio of Prabanjan M – CSE Student | Visual Engineer blending tech and creativity through code, circuits, and cinematic design.",
+      "keywords": "Prabanjan M, AI Storytelling, Computer Vision, Portfolio, VIT Chennai, Blender Projects, YOLOv8, Visual Engineering, Creative Tech ",
+      "author": "Prabanjan M",
+      "og_image": "https://avatars.githubusercontent.com/thebestproha",
       "twitter_card": "summary_large_image",
-      "base_url": "https://deepthibalasubramanian.dev"
+      "base_url": "https://thebestproha.github.io"
     }
   },
-  "header": {
-    "greeting": "Deepthi Balasubramanian",
-    "tagline": "Engineer. Explorer. Empowering with AI."
+"header": {
+  "greeting": "Prabanjan M",
+  "tagline": "Creative Engineer. Visual Thinker. Building AI-powered Experiences."
+},
+"social_links": [
+  {
+    "name": "GitHub",
+    "url": "https://github.com/thebestproha",
+    "icon": "github",
+    "required": true
   },
-  "social_links": [
+  {
+    "name": "LinkedIn",
+    "url": "https://linkedin.com/in/prabanjan-m",
+    "icon": "linkedin"
+  }
+],
+"github_username": "thebestproha",
+"about": {
+  "paragraphs": [
+    "Hi! I'm Prabanjan — a CSE undergrad passionate about creative engineering, visual storytelling, and AI-powered experiences. I bring tech and imagination together through circuits, code, and cinematic design.",
+    "From building 4-bit logic circuits and YOLOv8 object detectors to crafting AI-assisted Blender scenes, I blend precision with creativity. Let’s build something bold, expressive, and intelligent!"
+  ]
+},
+"projects": {
+  "title": "Latest Projects",
+  "items": [
     {
-      "name": "GitHub",
-      "url": "https://github.com/deepthibalasubramanian",
-      "icon": "github",
-      "required": true
+      "name": "Wildlife Detection with YOLOv8",
+      "date": "2025",
+      "description": [
+        "Custom-trained YOLOv8 model using Roboflow and OpenCV.",
+        "Detects animals like tigers, zebras, and rhinos in real time.",
+        "Annotated dataset and live webcam inference."
+      ],
+      "picture": "assets/projects/yolov8_animals.jpg",
+      "link": {
+        "url": "https://cdn.prod.website-files.com/680a070c3b99253410dd3df5/680a070c3b99253410dd47d7_67ed570715ade729dd94b1c0_66d83ba6b4e2b86779b70503_66d836568ed91b96fd1fa8f3_Wildlife_Fig%252525201.png",
+        "title": "View Repository"
+      }
     },
     {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/deepthibalasubramanian/",
-      "icon": "linkedin"
+      "name": "4-Bit Password Verifier Circuit",
+      "date": "2025",
+      "description": [
+        "Designed using 74-series TTL ICs and Tinkercad simulation.",
+        "Custom voltage regulation for 5V logic-level compatibility.",
+        "Verilog model for circuit logic verification."
+      ],
+      "picture": "https://iili.io/FEi3awv.png",
+      "link": {
+        "url": "https://github.com/thebestproha/4bit-password-circuit",
+        "title": "GitHub Repository"
+      }
+    },
+    {
+      "name": "Blender WALL·E Trash Scene",
+      "date": "2024",
+      "description": [
+        "Cinematic animation using Blender and Cycles renderer.",
+        "Scene includes lighting, props, and volumetric fog.",
+        "Inspired by WALL·E's post-apocalyptic waste world."
+      ],
+      "picture": "assets/projects/walle_blender.jpg",
+      "link": {
+        "url": "https://github.com/thebestproha/blender-walle-scene",
+        "title": "GitHub Repository"
+      }
     }
-  ],
-  "github_username": "deepthibalasubramanian",
-  "about": {
-    "paragraphs": [
-      "Hey there! I’m Deepthi, a passionate engineer with a love for AI, innovation, and community building. From building accessible tech for social good to representing India at Microsoft global summits, I’m all about using technology to empower lives.",
-      "Currently a Software Engineering Intern at Honeywell and a Gold-level Microsoft Student Ambassador, I’ve delivered 20+ workshops, mentored global peers, and led award-winning projects. Let's connect and create something impactful together!"
-    ]
-  },
-  "projects": {
-    "title": "Latest Projects",
-    "items": [
-      {
-        "name": "Hearing the World",
-        "date": "Jan 2023 - Mar 2023",
-        "description": [
-          "Microsoft Social Impact Project across 3 countries.",
-          "Led a diverse team to build an AI-powered Android app for the visually impaired.",
-          "Enabled immersive, story-like environmental descriptions using AI."
-        ],
-        "picture": "assets/projects/hearing_the_world.jpg",
-        "link": {
-          "url": "https://github.com/orgs/MLSA-Social-Impact-Project-Jan-Mar-23/repositories",
-          "title": "View Repository"
+  ]
+},
+"experience": {
+  "title": "Professional Experience",
+  "jobs": [
+    {
+      "company": "Bionary Club, VIT Chennai",
+      "role": "Management Member",
+      "date": "Sept 2024 – Present",
+      "responsibilities": [
+        "Led initiatives to promote student innovation.",
+        "Helped organize AI/tech workshops and ideathons.",
+        "Mentored juniors in CSE core and digital design."
+      ],
+      "logo": "assets/logos/bionary_logo.png"
+    }
+  ]
+},
+"skills": {
+  "title": "Skills & Technologies",
+  "categories": [
+    {
+      "name": "Technical Skills",
+      "items": [
+        "C, C++, Python, Verilog",
+        "YOLOv8, OpenCV, Tinkercad",
+        "React, Tailwind CSS, Git",
+        "Jupyter, Anaconda, Bolt.new"
+      ]
+    },
+    {
+      "name": "Creative & Visual Tools",
+      "items": [
+        "Blender, Canva, Kling.ai, VEED.IO",
+        "Prompt Engineering for AI content",
+        "Visual storytelling and scene design"
+      ]
+    },
+    {
+      "name": "Certifications",
+      "items": [
+        {
+          "name": "Udemy – Team Management",
+          "url": "#"
+        },
+        {
+          "name": "LinkedIn Learning – Python Essentials, C Pointers",
+          "url": "#"
+        },
+        {
+          "name": "HackerRank – Python & Problem Solving",
+          "url": "#"
+        },
+        {
+          "name": "MathWorks – MATLAB Onramp",
+          "url": "#"
         }
-      },
-      {
-        "name": "Inclusi-AI Vitality",
-        "date": "2023",
-        "description": [
-          "AI-based health chatbot for mental wellness support.",
-          "Secure, personalized response system using natural language understanding."
-        ],
-        "picture": "assets/projects/inclusi_ai.jpg",
-        "link": {
-          "url": "https://github.com/deepthibalasubramanian/Inclusi-AI-Vitality",
-          "title": "GitHub Repository"
-        }
-      },
-      {
-        "name": "MiniATS - AI Application Tracking System",
-        "date": "2024",
-        "description": [
-          "Customizable ATS that integrates AI to streamline resume parsing and job application workflows."
-        ],
-        "picture": "assets/projects/miniats.jpg",
-        "link": {
-          "url": "https://github.com/deepthibalasubramanian/MiniATS-Application-Tracking-System",
-          "title": "GitHub Repository"
-        }
-      }
-    ]
-  },
-  "experience": {
-    "title": "Professional Experience",
-    "jobs": [
-      {
-        "company": "Honeywell",
-        "role": "Software Engineering Intern",
-        "date": "Jan 2025 - Present",
-        "responsibilities": [
-          "Built automation tools improving deployment productivity by 81%",
-          "Integrated Agentic AI to support troubleshooting for program managers.",
-          "Helped organize employee engagement events and cross-functional learning."
-        ],
-        "logo": "assets/logos/honeywell_logo.png"
-      },
-      {
-        "company": "The Edify Project",
-        "role": "Associate Business Analyst",
-        "date": "Sep 2023 – Mar 2024",
-        "responsibilities": [
-          "Secured $1M venture funding through proposal writing.",
-          "Assisted CEO with strategy and high-level client management."
-        ],
-        "logo": "assets/logos/edify_logo.png"
-      },
-      {
-        "company": "Cittaa Health Services",
-        "role": "Director / COO",
-        "date": "Nov 2021 – Mar 2023",
-        "responsibilities": [
-          "Managed 40+ employees and interns remotely.",
-          "Registered company with Startup India and collaborated with V-NEST incubation."
-        ],
-        "logo": "assets/logos/cittaa_logo.png"
-      }
-    ]
-  },
-  "skills": {
-    "title": "Skills & Technologies",
-    "categories": [
-      {
-        "name": "Technical Skills",
-        "items": [
-          "Python, Java, C++",
-          "SQL, JavaScript, R",
-          "HTML, CSS, React",
-          "Azure AI, AWS, Google Cloud",
-          "Git, GitHub, CI/CD",
-          "C#, MATLAB, Jupyter Notebook"
-        ]
-      },
-      {
-        "name": "AI & Research",
-        "items": [
-          "Deepfake Detection with Diffusion-CNN-LSTM",
-          "IoT-based Adulteration Detection",
-          "DDoS and Flash Crowd Analysis",
-          "Agentic AI for DevOps"
-        ]
-      },
-      {
-        "name": "Certifications",
-        "items": [
-          {
-            "name": "Microsoft Azure AI Fundamentals",
-            "url": "https://www.credly.com/badges/AI-900"
-          },
-          {
-            "name": "Azure Data Fundamentals",
-            "url": "https://www.credly.com/badges/DP-900"
-          },
-          {
-            "name": "Foundational C# with Microsoft",
-            "url": "#"
-          },
-          {
-            "name": "AWS Machine Learning Scholarship",
-            "url": "#"
-          }
-        ]
-      }
-    ]
-  },
-  "github_projects": {
-    "title": "Projects on GitHub"
-  },
-  "footer": {
-    "show_social_links": true,
-    "show_built_with": true,
-    "built_with_text": "Built with 💙 using JavaScript and GitHub Pages",
-    "tagline": "Curious mind. Community heart. Let’s innovate together!"
-  }
+      ]
+    }
+  ]
+},
+"github_projects": {
+  "title": "Projects on GitHub"
+},
+"footer": {
+  "show_social_links": true,
+  "show_built_with": true,
+  "built_with_text": "Built with 💙 using React, Tailwind, and Bolt.new",
+  "tagline": "Engineering meets creativity — code with purpose, design with passion."
+}
 }
